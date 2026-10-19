@@ -1,0 +1,3 @@
+Drop your real dataset here (.xlsx or .csv), e.g. "E Commerce Dataset.xlsx" from Kaggle.
+Then run:  python src/train.py   and   streamlit run app.py
+(If this folder contains no .csv/.xlsx file, the bundled synthetic data/customers.csv is used.)

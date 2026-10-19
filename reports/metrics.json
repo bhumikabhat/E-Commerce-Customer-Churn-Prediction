@@ -1,0 +1,23 @@
+{
+  "dataset": "E Commerce Dataset.xlsx",
+  "n_rows": 5073,
+  "churn_rate": 0.16577961758328405,
+  "best_model": "XGBoost (tuned)",
+  "threshold": 0.35,
+  "test_roc_auc": 0.9893250688705234,
+  "test_f1": 0.8869047619047619,
+  "test_recall": 0.8869047619047619,
+  "test_precision": 0.8869047619047619,
+  "top_features": {
+    "Tenure": 1.3992999792099,
+    "Complain": 1.3327000141143799,
+    "NumberOfAddress": 0.8925999999046326,
+    "OrdersPerMonth": 0.7039999961853027,
+    "IsNewCustomer": 0.6632999777793884,
+    "CashbackAmount": 0.6446999907493591,
+    "WarehouseToHome": 0.4587000012397766,
+    "CityTier": 0.4415999948978424,
+    "SatisfactionScore": 0.43320000171661377,
+    "MaritalStatus_Single": 0.39489999413490295
+  }
+}
