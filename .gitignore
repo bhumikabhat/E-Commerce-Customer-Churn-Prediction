@@ -39,3 +39,5 @@ kaggle.json
 Thumbs.db
 .vscode/
 .idea/
+!models/churn_model.joblib
+!data/processed.csv
